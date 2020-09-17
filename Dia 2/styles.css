@@ -1,0 +1,41 @@
+body {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.text {
+  position: absolute;
+  justify-content: center;
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  color: #fff;
+  text-align: center;
+  line-height: 300px;
+  font-family: sans-serif;
+  font-size: 2em;
+  box-shadow: 0 0 5px rgba(255, 255, 255, 0.4);
+}
+
+.ring {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  box-shadow: 0 4px 0 #fff;
+  animation: animate 1s linear infinite;
+}
+
+@keyframes animate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}

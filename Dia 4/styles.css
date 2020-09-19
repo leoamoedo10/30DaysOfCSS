@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.butao {
+  height: 60px;
+  width: 300px;
+  font-weight: 700;
+  font-size: 24px;
+  font-family: "Courier New", Courier, monospace;
+  background: none;
+  position: absolute;
+  color: indianred;
+  border: 4px solid;
+  border-radius: 10px;
+}
+
+.butao::before,
+.butao::after {
+  content: "";
+  position: absolute;
+  width: 14px;
+  height: 4px;
+  background: rgba(0, 0, 0, 0.8);
+  transform: skewX(50deg);
+  transition: 0.4s linear;
+}
+
+.butao::before {
+  top: -4px;
+  left: 10%;
+}
+.butao::after {
+  bottom: -4px;
+  right: 10%;
+}
+.butao:hover::before {
+  left: 80%;
+}
+.butao:hover::after {
+  right: 80%;
+}

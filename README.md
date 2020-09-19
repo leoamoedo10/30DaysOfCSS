@@ -5,7 +5,7 @@
 
 ## Dia 1 - Icones de tecnologias em camandas
 
-## Dia 2- Loader animado
+## Dia 2 - Loader animado
 
 ## Dia 3 - Texto com mudança de cor 
 

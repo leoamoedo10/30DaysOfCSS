@@ -3,3 +3,42 @@ body {
   margin: 0;
   background-color: rgba(0, 0, 0, 0.8);
 }
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.pulse {
+  display: flex;
+  width: 200px;
+  height: 200px;
+  background: darksalmon;
+  border-radius: 50%;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 24px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: white;
+  animation: animates 3s linear infinite;
+}
+
+@keyframes animates {
+  0% {
+    box-shadow: 0 0 0 0 rgba(233, 150, 122, 0.7), 0 0 0 0 rgba(233, 150, 122, 0.7);
+  }
+  40% {
+    box-shadow: 0 0 0 50px rgba(55, 209, 201, 0),
+      0 0 0 0 rgba(233, 150, 122, 0.7);
+  }
+  80% {
+    box-shadow: 0 0 0 50px rgba(55, 209, 201, 0),
+      0 0 0 30px rgba(55, 209, 201, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(55, 209, 201, 0), 0 0 0 30px rgba(55, 209, 201, 0);
+  }
+}

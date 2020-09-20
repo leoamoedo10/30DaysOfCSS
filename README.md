@@ -10,3 +10,5 @@
 ## Dia 3 - Texto com mudança de cor 
 
 ## Dia 4 - Butão com animação
+
+## Dia 5 - Efeito pulsar

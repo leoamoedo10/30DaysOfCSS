@@ -10,7 +10,7 @@
 ![day_2](https://user-images.githubusercontent.com/45572994/93720001-b4606280-fb5c-11ea-93a1-a1bf900b4245.gif)
 
 ## Dia 3 - Texto com mudança de cor 
-![day_3](https://user-images.githubusercontent.com/45572994/93919006-8b1e0e80-fce3-11ea-9ae6-37afdb4aaa92.gif)
+![day_3](https://user-images.githubusercontent.com/45572994/94052539-773fde80-fdaf-11ea-9438-2dfe15d6c17d.gif)
 
 ## Dia 4 - Butão com animação
 ![day_4](https://user-images.githubusercontent.com/45572994/93919570-3f1f9980-fce4-11ea-9017-99c949204cd8.gif)

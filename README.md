@@ -20,3 +20,6 @@
 
 ## Dia 6 - Efeito lightning text
 ![day_6](https://user-images.githubusercontent.com/45572994/93920120-1f3ca580-fce5-11ea-8b6d-c546c8935af6.gif)
+
+## Dia 7 - Preloader animado
+![day_7](https://user-images.githubusercontent.com/45572994/94051026-60988800-fdad-11ea-85fb-0cc49d809be7.gif)

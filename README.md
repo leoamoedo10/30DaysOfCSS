@@ -12,7 +12,7 @@
 ## Dia 3 - Texto com mudança de cor 
 ![day_3](https://user-images.githubusercontent.com/45572994/94052539-773fde80-fdaf-11ea-9438-2dfe15d6c17d.gif)
 
-## Dia 4 - Butão com animação
+## Dia 4 - Botão com animação
 ![day_4](https://user-images.githubusercontent.com/45572994/93919570-3f1f9980-fce4-11ea-9017-99c949204cd8.gif)
 
 ## Dia 5 - Efeito pulsar

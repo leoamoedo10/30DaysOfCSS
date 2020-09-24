@@ -7,7 +7,7 @@ body {
   justify-content: center;
 }
 
-.butao {
+.botao {
   height: 60px;
   width: 300px;
   font-weight: 700;
@@ -20,8 +20,8 @@ body {
   border-radius: 10px;
 }
 
-.butao::before,
-.butao::after {
+.botao::before,
+.botao::after {
   content: "";
   position: absolute;
   width: 14px;
@@ -31,17 +31,17 @@ body {
   transition: 0.4s linear;
 }
 
-.butao::before {
+.botao::before {
   top: -4px;
   left: 10%;
 }
-.butao::after {
+.botao::after {
   bottom: -4px;
   right: 10%;
 }
-.butao:hover::before {
+.botao:hover::before {
   left: 80%;
 }
-.butao:hover::after {
+.botao:hover::after {
   right: 80%;
 }

@@ -23,3 +23,6 @@
 
 ## Dia 7 - Preloader animado
 ![day_7](https://user-images.githubusercontent.com/45572994/94051026-60988800-fdad-11ea-85fb-0cc49d809be7.gif)
+
+## Dia 8 - Coração pulsando
+![day_8](https://user-images.githubusercontent.com/45572994/94184865-ecc4b100-fe7a-11ea-9947-7acb1d15cd0e.gif)

@@ -43,19 +43,25 @@
 
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%206)
 
-[Post Linkedin](Ainda não disponível)
+[Post Linkedin]() *Ainda não disponível*
 
 ## Dia 7 - Preloader animado
 ![day_7](https://user-images.githubusercontent.com/45572994/94051026-60988800-fdad-11ea-85fb-0cc49d809be7.gif)
 
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%207)
 
+[Post Linkedin]() *Ainda não disponível*
+
 ## Dia 8 - Coração pulsando
 ![day_8](https://user-images.githubusercontent.com/45572994/94184865-ecc4b100-fe7a-11ea-9947-7acb1d15cd0e.gif)
 
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%208)
 
+[Post Linkedin]() *Ainda não disponível*
+
 ## Dia 9 - Pêndulo de Newton
 ![day_9](https://user-images.githubusercontent.com/45572994/94300305-2b23a400-ff3f-11ea-855b-2309394ffc0d.gif)
 
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%209)
+
+[Post Linkedin]() *Ainda não disponível*

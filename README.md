@@ -8,8 +8,13 @@
 
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%201)
 
+[Post Linkedin](https://www.linkedin.com/posts/leonardo-amoedo_30diasdecss-dia1-activity-6713518303077244928-b6DR)
+
 ## Dia 2 - Loader animado
 ![day_2](https://user-images.githubusercontent.com/45572994/93720001-b4606280-fb5c-11ea-93a1-a1bf900b4245.gif)
+
+[Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%202)
+[Post Linkedin](https://www.linkedin.com/posts/leonardo-amoedo_30diasdecss-dia2-activity-6714246382053556224-bATX)
 
 ## Dia 3 - Texto com mudança de cor 
 ![day_3](https://user-images.githubusercontent.com/45572994/94052539-773fde80-fdaf-11ea-9438-2dfe15d6c17d.gif)

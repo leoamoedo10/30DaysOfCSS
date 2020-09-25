@@ -14,16 +14,29 @@
 ![day_2](https://user-images.githubusercontent.com/45572994/93720001-b4606280-fb5c-11ea-93a1-a1bf900b4245.gif)
 
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%202)
+
 [Post Linkedin](https://www.linkedin.com/posts/leonardo-amoedo_30diasdecss-dia2-activity-6714246382053556224-bATX)
 
 ## Dia 3 - Texto com mudança de cor 
 ![day_3](https://user-images.githubusercontent.com/45572994/94052539-773fde80-fdaf-11ea-9438-2dfe15d6c17d.gif)
 
+[Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%203)
+
+[Post Linkedin](https://www.linkedin.com/posts/leonardo-amoedo_30diasdecss-dia3-activity-6714605391226916864-dlnl)
+
 ## Dia 4 - Botão com animação
 ![day_4](https://user-images.githubusercontent.com/45572994/93919570-3f1f9980-fce4-11ea-9017-99c949204cd8.gif)
 
+[Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%204)
+
+[Post Linkedin](https://www.linkedin.com/posts/leonardo-amoedo_30diasdecss-dia4-activity-6714966764809146368-dtAX)
+
 ## Dia 5 - Efeito pulsar
 ![day_5](https://user-images.githubusercontent.com/45572994/93919806-9887c880-fce4-11ea-9e6c-a547baf3e0f3.gif)
+
+[Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%205)
+
+[Post Linkedin](https://www.linkedin.com/posts/leonardo-amoedo_30diasdecss-dia5-activity-6715322927937556480-SWd9)
 
 ## Dia 6 - Efeito lightning text
 ![day_6](https://user-images.githubusercontent.com/45572994/93920120-1f3ca580-fce5-11ea-8b6d-c546c8935af6.gif)

@@ -6,6 +6,8 @@
 ## Dia 1 - Icones de tecnologias em camandas
 ![day_1](https://user-images.githubusercontent.com/45572994/93719798-4b2c1f80-fb5b-11ea-8e25-fb02ad95289a.gif)
 
+[Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%201)
+
 ## Dia 2 - Loader animado
 ![day_2](https://user-images.githubusercontent.com/45572994/93720001-b4606280-fb5c-11ea-93a1-a1bf900b4245.gif)
 

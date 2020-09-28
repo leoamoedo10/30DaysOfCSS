@@ -43,7 +43,7 @@
 
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%206)
 
-[Post Linkedin]() *Ainda não disponível*
+[Post Linkedin](https://www.linkedin.com/posts/leonardo-amoedo_30diasdecss-dia6-activity-6716409298613768192-YzxI)
 
 ## Dia 7 - Preloader animado
 ![day_7](https://user-images.githubusercontent.com/45572994/94051026-60988800-fdad-11ea-85fb-0cc49d809be7.gif)

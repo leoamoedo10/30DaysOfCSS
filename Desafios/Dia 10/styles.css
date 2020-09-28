@@ -1,0 +1,39 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 150px;
+  font-weight: 700;
+  letter-spacing: 5px;
+  color: rosybrown;
+}
+
+span::before {
+  content: "";
+  animation: animate 4s infinite;
+}
+
+@keyframes animate {
+  0% {
+    content: "💻";
+  }
+  25% {
+    content: "🍕";
+  }
+  50% {
+    content: "🎮";
+  }
+  75% {
+    content: "⚽️";
+  }
+  100% {
+    content: "🎵";
+  }
+}

@@ -1,0 +1,76 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div {
+  width: 650px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn {
+  width: 300px;
+  height: 60px;
+  font-size: 20px;
+  font-weight: 700;
+  background: none;
+  color: #48d1cc;
+  border: 3px solid #48d1cc;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+}
+
+.btn2 {
+  width: 300px;
+  height: 60px;
+  font-size: 20px;
+  font-weight: 700;
+  background: none;
+  color: #c71585;
+  border: 3px solid #c71585;
+  position: relative;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.btn:hover, .btn2:hover {
+  color: #fff;
+}
+
+.btn::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #48d1cc;
+  z-index: -1;
+  border-radius: 0 0 50% 50%;
+  height: 0%;
+  transition: 0.5s;
+}
+
+.btn2::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #c71585;
+  z-index: -1;
+  border-radius: 0 0 50% 50%;
+  height: 0%;
+  transition: 0.5s;
+}
+
+.btn:hover::before, .btn2:hover::before {
+  height: 200%;
+}

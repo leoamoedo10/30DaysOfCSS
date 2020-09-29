@@ -50,7 +50,7 @@
 
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%207)
 
-[Post Linkedin]() *Ainda não disponível*
+[Post Linkedin](https://www.linkedin.com/posts/leonardo-amoedo_30diasdecss-dia7-activity-6716778653440602112-Tp5Z)
 
 ## Dia 8 - Coração pulsando
 ![day_8](https://user-images.githubusercontent.com/45572994/94184865-ecc4b100-fe7a-11ea-9947-7acb1d15cd0e.gif)

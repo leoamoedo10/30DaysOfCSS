@@ -57,7 +57,7 @@
 
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%208)
 
-[Post Linkedin]() *Ainda não disponível*
+[Post Linkedin](https://www.linkedin.com/posts/leonardo-amoedo_30diasdecss-dia8-activity-6717145939288592385-MpmG)
 
 ## Dia 9 - Pêndulo de Newton
 ![day_9](https://user-images.githubusercontent.com/45572994/94300305-2b23a400-ff3f-11ea-855b-2309394ffc0d.gif)

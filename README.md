@@ -79,3 +79,10 @@
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2011)
 
 [Post Linkedin]() *Ainda não disponível*
+
+## Dia 12 - Efeito de preenchimento ao passar o mouse
+![day_12](https://user-images.githubusercontent.com/45572994/94726020-0a8a8e00-0333-11eb-972f-f4f4daf91ace.gif)
+
+[Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2012)
+
+[Post Linkedin]() *Ainda não disponível*

@@ -64,7 +64,7 @@
 
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%209)
 
-[Post Linkedin]() *Ainda não disponível*
+[Post Linkedin](https://www.linkedin.com/posts/leonardo-amoedo_30diasdecss-dia9-activity-6717791864084295680-TaH3)
 
 ## Dia 10 - Animação de texto alternado
 ![day_10](https://user-images.githubusercontent.com/45572994/94468431-c795b280-019a-11eb-9a35-c471555dbd4f.gif)

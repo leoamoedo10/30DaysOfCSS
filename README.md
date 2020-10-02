@@ -86,3 +86,10 @@
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2012)
 
 [Post Linkedin]() *Ainda não disponível*
+
+## Dia 13 - Loading animado
+![day_13](https://user-images.githubusercontent.com/45572994/94929443-7f78d780-049b-11eb-9b64-bc55eba3ac05.gif)
+
+[Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2013)
+
+[Post Linkedin]() *Ainda não disponível*

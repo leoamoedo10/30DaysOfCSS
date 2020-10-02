@@ -13,8 +13,10 @@ ul {
 
 ul li {
   list-style: none;
-  font-size: 100px;
-  letter-spacing: 20px;
+  font-size: 120px;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  letter-spacing: 30px;
   animation: animate 3s linear infinite;
 }
 

@@ -93,3 +93,10 @@
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2013)
 
 [Post Linkedin]() *Ainda não disponível*
+
+## Dia 14 - Fundo de texto com imagem animado
+![day_14](https://user-images.githubusercontent.com/45572994/94998399-ebd10500-0587-11eb-8bd4-9e37d777e961.gif)
+
+[Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2014)
+
+[Post Linkedin]() *Ainda não disponível*

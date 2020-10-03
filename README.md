@@ -71,7 +71,7 @@
 
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2010)
 
-[Post Linkedin]() *Ainda não disponível*
+[Post Linkedin](https://www.linkedin.com/posts/leonardo-amoedo_30diasdecss-activity-6718217334781173760-cokQ)
 
 ## Dia 11 - Botão com efeito hover
 ![day_11](https://user-images.githubusercontent.com/45572994/94600988-2c1f4300-0269-11eb-9de5-f8f23f16d13a.gif)

@@ -1,0 +1,32 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div {
+  text-align: center;
+  color: #a52a2a;
+  font-size: 150px;
+  font-weight: bold;
+  font-family: arial;
+  letter-spacing: 5px;
+  text-shadow: 0 25px 5px rgba(0, 0, 0, 0.2);
+  animation: animate 3s linear infinite;
+  animation-direction: alternate;
+  border: solid 1px #fff;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
+}
+
+@keyframes animate {
+  from {
+    transform: rotate(5deg);
+  }
+
+  to {
+    transform: rotate(-5deg);
+  }
+}

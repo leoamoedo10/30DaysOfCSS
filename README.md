@@ -100,3 +100,10 @@
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2014)
 
 [Post Linkedin]() *Ainda não disponível*
+
+## Dia 15 - Texto flutuante
+![day_15](https://user-images.githubusercontent.com/45572994/95023573-3455f480-0654-11eb-8b60-218b4fb3a9ed.gif)
+
+[Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2015)
+
+[Post Linkedin]() *Ainda não disponível*

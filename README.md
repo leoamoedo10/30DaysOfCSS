@@ -85,7 +85,7 @@
 
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2012)
 
-[Post Linkedin]() *Ainda não disponível*
+[Post Linkedin](https://www.linkedin.com/posts/leonardo-amoedo_30diasdecss-dia12-activity-6718924937144352768-r5BS)
 
 ## Dia 13 - Loading animado
 ![day_13](https://user-images.githubusercontent.com/45572994/94929443-7f78d780-049b-11eb-9b64-bc55eba3ac05.gif)
@@ -105,5 +105,12 @@
 ![day_15](https://user-images.githubusercontent.com/45572994/95023573-3455f480-0654-11eb-8b60-218b4fb3a9ed.gif)
 
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2015)
+
+[Post Linkedin]() *Ainda não disponível*
+
+## Dia 16 - Botão com efeito
+![day_16](https://user-images.githubusercontent.com/45572994/95107988-05518880-0711-11eb-9527-a1fab51aba20.gif)
+
+[Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2016)
 
 [Post Linkedin]() *Ainda não disponível*

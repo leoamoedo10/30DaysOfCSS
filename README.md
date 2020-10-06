@@ -119,3 +119,5 @@
 ![day_17](https://user-images.githubusercontent.com/45572994/95235826-76aa3d80-07dc-11eb-86c4-07b03a13a653.gif)
 
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2017)
+
+[Post Linkedin]() *Ainda não disponível*

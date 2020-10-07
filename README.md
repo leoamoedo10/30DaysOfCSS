@@ -99,7 +99,7 @@
 
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2014)
 
-[Post Linkedin]() *Ainda não disponível*
+[Post Linkedin](https://www.linkedin.com/posts/leonardo-amoedo_30diasdecss-dia14-activity-6719674680720011264-KZ9g) 
 
 ## Dia 15 - Texto flutuante
 ![day_15](https://user-images.githubusercontent.com/45572994/95023573-3455f480-0654-11eb-8b60-218b4fb3a9ed.gif)
@@ -125,6 +125,6 @@
 ## Dia 18 - Texto com efeito fumaça
 ![day_18](https://user-images.githubusercontent.com/45572994/95371465-9dd23f00-08b0-11eb-81d6-511642f95e74.gif)
 
-[Código]()
+[Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2018)
 
 [Post Linkedin]() *Ainda não disponível*

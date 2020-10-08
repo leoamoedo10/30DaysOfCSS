@@ -21,6 +21,12 @@ button {
   cursor: pointer;
 }
 
+button:hover {
+  box-shadow: 0 0 10px #3cb371,
+              0 0 20px #3cb371, 
+              0 0 30px #3cb371;
+}
+
 button::before {
   content: "Dia #16";
   color: cornsilk;

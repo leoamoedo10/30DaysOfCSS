@@ -106,7 +106,7 @@
 
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2015)
 
-[Post Linkedin]() *Ainda não disponível*
+[Post Linkedin](https://www.linkedin.com/posts/leonardo-amoedo_30diasdecss-dia15-activity-6720035521977970688-Bqrf)
 
 ## Dia 16 - Botão com efeito
 ![day_16](https://user-images.githubusercontent.com/45572994/95107988-05518880-0711-11eb-9527-a1fab51aba20.gif)
@@ -126,5 +126,12 @@
 ![day_18](https://user-images.githubusercontent.com/45572994/95371465-9dd23f00-08b0-11eb-81d6-511642f95e74.gif)
 
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2018)
+
+[Post Linkedin]() *Ainda não disponível*
+
+## Dia 19 - Efeito de partículas
+![day_19](https://user-images.githubusercontent.com/45572994/95497319-82326b80-0978-11eb-812e-2f8a688d5e39.gif)
+
+[Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2019)
 
 [Post Linkedin]() *Ainda não disponível*

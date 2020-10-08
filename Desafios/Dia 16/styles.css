@@ -28,7 +28,7 @@ button:hover {
 }
 
 button::before {
-  content: "Dia #16";
+  content: "#Dia16";
   color: cornsilk;
   background-color: #3cb371;
   display: flex;

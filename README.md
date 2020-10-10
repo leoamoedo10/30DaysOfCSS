@@ -135,3 +135,10 @@
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2019)
 
 [Post Linkedin]() *Ainda não disponível*
+
+## Dia 20 - Botão com hover
+![day_20](https://user-images.githubusercontent.com/45572994/95661860-264b1c80-0b09-11eb-9229-787beef07ca9.gif)
+
+[Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2020)
+
+[Post Linkedin]() *Ainda não disponível*

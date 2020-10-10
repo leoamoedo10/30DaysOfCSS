@@ -113,7 +113,7 @@
 
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2016)
 
-[Post Linkedin]() *Ainda não disponível*
+[Post Linkedin](https://www.linkedin.com/posts/leonardo-amoedo_30diasdecss-dia16-activity-6720756846346436608-7vaT) 
 
 ## Dia 17 - Loader animado
 ![day_17](https://user-images.githubusercontent.com/45572994/95235826-76aa3d80-07dc-11eb-86c4-07b03a13a653.gif)

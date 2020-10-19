@@ -120,7 +120,8 @@
 
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2017)
 
-[Post Linkedin]() *Ainda não disponível*
+[Post Linkedin](https://www.linkedin.com/posts/leonardo-amoedo_30diasdecss-dia17-activity-6724008508607475712-6FMO)
+
 
 ## Dia 18 - Texto com efeito fumaça
 ![day_18](https://user-images.githubusercontent.com/45572994/95371465-9dd23f00-08b0-11eb-81d6-511642f95e74.gif)

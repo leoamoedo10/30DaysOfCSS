@@ -128,7 +128,8 @@
 
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2018)
 
-[Post Linkedin]() *Ainda não disponível*
+[Post Linkedin](https://www.linkedin.com/posts/leonardo-amoedo_30diasdecss-dia18-activity-6724370507925331968-eigd)
+
 
 ## Dia 19 - Efeito de partículas
 ![day_19](https://user-images.githubusercontent.com/45572994/95497319-82326b80-0978-11eb-812e-2f8a688d5e39.gif)

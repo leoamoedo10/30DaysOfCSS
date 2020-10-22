@@ -136,7 +136,8 @@
 
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2019)
 
-[Post Linkedin]() *Ainda não disponível*
+[Post Linkedin](https://www.linkedin.com/posts/leonardo-amoedo_30diasdecss-dia19-activity-6724740679626440704-cgE6)
+
 
 ## Dia 20 - Botão com hover
 ![day_20](https://user-images.githubusercontent.com/45572994/95661860-264b1c80-0b09-11eb-9229-787beef07ca9.gif)
@@ -156,5 +157,12 @@
 ![day_22](https://user-images.githubusercontent.com/45572994/96621445-feb13c80-12de-11eb-8a98-8535d3782406.gif)
 
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2022)
+
+[Post Linkedin]() *Ainda não disponível*
+
+## Dia 23 - Botão com efeito
+![day_23](https://user-images.githubusercontent.com/45572994/96910144-6d280300-1475-11eb-946e-b7d8a8a426e8.gif)
+
+[Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2023)
 
 [Post Linkedin]() *Ainda não disponível*

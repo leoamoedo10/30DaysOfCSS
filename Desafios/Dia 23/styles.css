@@ -17,6 +17,7 @@ button {
   background: transparent;
   border: 3px solid #047952;
   transition: 0.5s;
+  cursor: pointer;
 }
 
 button:hover {

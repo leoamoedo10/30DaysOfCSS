@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  height: 80px;
+  width: 400px;
+  font-size: 50px;
+  font-family: "Courier New", Courier, monospace;
+  color: #047952;
+  font-weight: bold;
+  background: transparent;
+  border: 3px solid #047952;
+  transition: 0.5s;
+}
+
+button:hover {
+  border: 3px solid #047952;
+  color: white;
+  animation: animate 0.5s linear;
+  box-shadow: 0 0 10px white, 
+              0 0 20px #047952, 
+              0 0 30px #047952;
+}
+
+@keyframes animate {
+  33% {
+    transform: rotate(10deg);
+  }
+
+  66% {
+    transform: rotate(-10deg);
+  }
+
+  100% {
+    transform: rotate(10deg);
+  }
+}

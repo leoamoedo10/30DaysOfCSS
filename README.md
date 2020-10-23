@@ -152,7 +152,7 @@
 
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2021)
 
-[Post Linkedin]() *Ainda não disponível*
+[Post Linkedin](https://www.linkedin.com/posts/leonardo-amoedo_30diasdecss-dia21-activity-6725457826715578368-6_pl) 
 
 ## Dia 22 - Ícones com efeito
 ![day_22](https://user-images.githubusercontent.com/45572994/96621445-feb13c80-12de-11eb-8a98-8535d3782406.gif)

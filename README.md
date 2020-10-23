@@ -167,3 +167,10 @@
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2023)
 
 [Post Linkedin]() *Ainda não disponível*
+
+## Dia 24 - Preloader animado
+![day_24](https://user-images.githubusercontent.com/45572994/97034077-b5f5bf80-153a-11eb-9403-98398d560d08.gif)
+
+[Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2024)
+
+[Post Linkedin]() *Ainda não disponível*

@@ -159,7 +159,8 @@
 
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2022)
 
-[Post Linkedin]() *Ainda não disponível*
+[Post Linkedin](https://www.linkedin.com/posts/leonardo-amoedo_30diasdecss-dia22-activity-6726560090544979968-uN2P)
+
 
 ## Dia 23 - Botão com efeito
 ![day_23](https://user-images.githubusercontent.com/45572994/96910144-6d280300-1475-11eb-946e-b7d8a8a426e8.gif)

@@ -174,3 +174,17 @@
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2024)
 
 [Post Linkedin]() *Ainda não disponível*
+
+## Dia 25 - Checkbox com ícones
+![day_25](https://user-images.githubusercontent.com/45572994/97211287-94484280-179d-11eb-9ec6-c6db5b1551bc.gif)
+
+[Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2025)
+
+[Post Linkedin]() *Ainda não disponível*
+
+## Dia 26 - Load com efeito
+![day_26](https://user-images.githubusercontent.com/45572994/97211467-dc676500-179d-11eb-8035-a7118b72b03c.gif)
+
+[Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2026)
+
+[Post Linkedin]() *Ainda não disponível*

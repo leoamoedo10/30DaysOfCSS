@@ -175,7 +175,8 @@
 
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2024)
 
-[Post Linkedin]() *Ainda não disponível*
+[Post Linkedin](https://www.linkedin.com/posts/leonardo-amoedo_30diasdecss-dia24-activity-6727634268681469952-X5BR)
+
 
 ## Dia 25 - Checkbox com ícones
 ![day_25](https://user-images.githubusercontent.com/45572994/97211287-94484280-179d-11eb-9ec6-c6db5b1551bc.gif)
@@ -195,5 +196,12 @@
 ![day_27](https://user-images.githubusercontent.com/45572994/97341298-a55b8700-1863-11eb-8aca-ae20ca8a2d20.gif)
 
 [Còdigo](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2027)
+
+[Post Linkedin]() *Ainda não disponível*
+
+## Dia 28 - Background que muda de cor
+![day_28](https://user-images.githubusercontent.com/45572994/97610124-3c0a7e00-19f3-11eb-96a8-e65f27326327.gif)
+
+[Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2028)
 
 [Post Linkedin]() *Ainda não disponível*

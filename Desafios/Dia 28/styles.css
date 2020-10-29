@@ -1,0 +1,41 @@
+body {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  animation: animate 10s infinite;
+}
+
+h1 {
+  text-align: center;
+  font-size: 80px;
+  font-family: 'Courier New', Courier, monospace;
+  color: deeppink;
+}
+
+@keyframes animate {
+  0% {
+    background-color: lightslategrey;
+  }
+
+  20% {
+    background-color: mediumslateblue;
+  }
+
+  40% {
+    background-color: midnightblue;
+  }
+
+  60% {
+    background-color: indigo;
+  }
+
+  80% {
+    background-color: purple;
+  }
+
+  100% {
+    background-color: darkslateblue;
+  }
+}

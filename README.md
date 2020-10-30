@@ -183,7 +183,8 @@
 
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2025)
 
-[Post Linkedin]() *Ainda não disponível*
+[Post Linkedin](https://www.linkedin.com/posts/leonardo-amoedo_30diasdecss-dia25-activity-6728000199442087936-_---)
+
 
 ## Dia 26 - Load com efeito
 ![day_26](https://user-images.githubusercontent.com/45572994/97211467-dc676500-179d-11eb-8035-a7118b72b03c.gif)

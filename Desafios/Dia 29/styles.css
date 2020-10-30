@@ -22,6 +22,7 @@ body {
   color: darkslateblue;
   margin: 0 10px;
   line-height: 70px;
+  font-size: 30px;
 }
 
 span {
@@ -30,9 +31,9 @@ span {
 
 label {
   margin: 0 40px 0 0;
-  font-size: 30px;
   display: none;
   line-height: 70px;
+  font-size: 30px;
   width: 30px;
   float: right;
 }

@@ -213,3 +213,10 @@
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2029)
 
 [Post Linkedin]() *Ainda não disponível*
+
+## Dia 30 - Efeito de fogos de artifício
+![day_30](https://user-images.githubusercontent.com/45572994/98023204-5a062300-1de5-11eb-9eae-1c89b522d243.gif)
+
+[Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2030)
+
+[Post Linkedin]() *Ainda não disponível*

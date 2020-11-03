@@ -191,7 +191,8 @@
 
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2026)
 
-[Post Linkedin]() *Ainda não disponível*
+[Post Linkedin](https://www.linkedin.com/posts/leonardo-amoedo_30diasdecss-dia26-activity-6729453624457494528-5YGN) 
+
 
 ## Dia 27 - Efeito pulsar
 ![day_27](https://user-images.githubusercontent.com/45572994/97341298-a55b8700-1863-11eb-8aca-ae20ca8a2d20.gif)

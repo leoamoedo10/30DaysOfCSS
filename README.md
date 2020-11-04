@@ -199,7 +199,8 @@
 
 [Còdigo](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2027)
 
-[Post Linkedin]() *Ainda não disponível*
+[Post Linkedin](https://www.linkedin.com/posts/leonardo-amoedo_30diasdecss-dia27-activity-6729808451830091776-RNQP)
+
 
 ## Dia 28 - Background que muda de cor
 ![day_28](https://user-images.githubusercontent.com/45572994/97610124-3c0a7e00-19f3-11eb-96a8-e65f27326327.gif)

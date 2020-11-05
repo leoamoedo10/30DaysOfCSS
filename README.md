@@ -207,7 +207,8 @@
 
 [Código](https://github.com/leoamoedo10/30DaysOfCSS/tree/master/Desafios/Dia%2028)
 
-[Post Linkedin]() *Ainda não disponível*
+[Post Linkedin](https://www.linkedin.com/posts/leonardo-amoedo_30diasdecss-dia28-activity-6730159670696128512-mdI0)
+
 
 ## Dia 29 - Display responsivo
 ![day_29](https://user-images.githubusercontent.com/45572994/97739547-bce27c00-1abe-11eb-8266-2ae035d7d4ef.gif)
